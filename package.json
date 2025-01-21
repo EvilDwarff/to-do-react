@@ -1,0 +1,21 @@
+{
+  "name": "to-do-react",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "mysql2": "^3.12.0",
+    "next": "15.1.5",
+    "node": "^22.13.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
